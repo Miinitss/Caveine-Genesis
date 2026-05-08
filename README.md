@@ -2,7 +2,7 @@
 
 ![Profil Caveine Genesis](./Assets/Profil%20Caveine%20Genesis.png)
 
-**Caveine Genesis** bukan sekadar bot biasa, melainkan salah satu **pilar utama** dalam ekosistem Discord Caveine. Bot ini dirancang untuk menangani operasional kompleks mulai dari verifikasi keamanan hingga manajemen kemitraan server.
+**Caveine Genesis** bukan sekadar bot biasa, melainkan salah satu **pilar utama** dalam ekosistem Discord Caveine. Bot ini dirancang untuk menangani operasional kompleks mulai dari verifikasi keamanan usia member hingga membantu dalam system kemitraan server.
 
 ## ✨ Fitur Unggulan
 
